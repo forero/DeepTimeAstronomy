@@ -3,3 +3,4 @@ Richard McElreath](http://www.eva.mpg.de/fileadmin/content_files/staff/richard_m
 
 
 * Paralensing (microlensing + paralax). efecto de lensing que se intensifica a medida que el sol se mueve en la via lactea.
+ http://adsabs.harvard.edu/abs/2015ApJ...810..155Y
